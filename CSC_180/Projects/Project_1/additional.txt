@@ -1,0 +1,13 @@
+Additional Features Implemented
+In addition to analyzing customer reviews, I incorporated the following features into the predictive model:
+Latitude and Longitude: These geographical coordinates provide context about the business's location, which can influence customer ratings based on regional preferences and competition.
+
+Review Count: The total number of reviews received by a business serves as a quantitative indicator of its popularity and customer engagement. This feature helps the model understand the relationship between the volume of feedback and overall ratings.
+
+By integrating these additional features, the model aims to capture a more accurate view of the factors influencing business ratings, improving its predictive capability. 
+
+
+
+
+
+
